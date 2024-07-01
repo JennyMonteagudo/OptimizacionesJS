@@ -1,0 +1,2 @@
+# OptimizacionesJS
+ Ejercicio de clase
